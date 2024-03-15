@@ -1,0 +1,27 @@
+.main {
+    background-image: url('img/img1.jpg');
+   width: 1361px;
+   height: 576px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    }
+.txt{
+    position: absolute;
+    top: 20%; 
+    left: 40%; 
+    background-color: #00000045;
+    
+    width: 30em;
+    height: auto;
+
+}
+.header{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(184, 142, 64);
+
+}
+p{
+    text-align: center;
+    color: rgb(184, 142, 64);
+}

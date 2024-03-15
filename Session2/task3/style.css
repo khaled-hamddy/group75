@@ -1,0 +1,55 @@
+nav{
+    width:750px;
+    margin:0 auto;
+    list-style:none;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+nav li {
+    float: left;
+    padding: 1px;
+  }
+  
+ nav a {
+    display: block;
+  }
+ nav a::after{
+    content: url("img/img1.PNG");
+    vertical-align: middle; 
+
+  }
+  header {
+    clear: both;
+    margin:0 10%;
+}
+
+.gr_imgs1 {
+    float: right;
+}
+
+
+
+.img1, .img3{
+  margin-bottom: 2px;
+}
+.wimg1{
+  width: 100%;
+  height: 170px;
+  
+
+}
+main {
+  margin: 0 10% 0 10%;
+}
+main div .img6{
+background-image: url('img/img6.PNG');
+background-size: 40%;
+    height: 700px;
+    width: 1400px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}

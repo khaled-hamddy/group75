@@ -1,0 +1,17 @@
+.main{
+    background-image: url('img/Untitled.png');
+    background-position: top center;
+    height: 700px;
+    width: 1400px;
+    background-repeat: no-repeat;
+}
+.text{
+    position: absolute;
+    color:green;
+    left: 1.8%;
+}
+.two{
+    top: 7.5%;
+
+
+}
